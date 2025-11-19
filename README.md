@@ -5,7 +5,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-3.x-orange?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)  
 
-A full-featured **To-Do List web application** built with **Python** and **Django**. Manage your tasks in a modern, responsive interface with secure user authentication.
+A comprehensive **Online Library Management System** built with **Python** and **Django**. This platform allows users to create and manage their profiles, browse books, and share feedback, while administrators have full control over the book inventory.
 
 ---
 
